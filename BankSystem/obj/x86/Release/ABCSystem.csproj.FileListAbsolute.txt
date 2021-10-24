@@ -1,0 +1,15 @@
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\bin\Release\BankSystem.exe
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\bin\Release\BankSystem.pdb
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\ABCSystem.Feedback.resources
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\ABCSystem.PayBillsMenu.resources
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\ABCSystem.AmountTransferOnAccountID.resources
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\ABCSystem.MainMenu.resources
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\ABCSystem.MyAccount.resources
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\ABCSystem.paymentTransactionAmount.resources
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\BankSystem.Properties.Resources.resources
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\ABCSystem.CreateNewMenu.resources
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\ABCSystem.WelcomeMenu.resources
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\ABCSystem.csproj.GenerateResource.cache
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\ABCSystem.csproj.CoreCompileInputs.cache
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\BankSystem.exe
+E:\root\stuff\Tayyab\44 - Banking Application - 1\BankingApplication_1_102\BankSystem\obj\x86\Release\BankSystem.pdb
